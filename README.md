@@ -3,13 +3,12 @@
 ## backend setup
 
 ### create and enter a python venev
-`cd backend`
-`pip3 install -r requirements.txt`
-`python3 manage.py runserver 8000`
+`cd backend` <br/>
+`pip3 install -r requirements.txt` <br/>
+`python3 manage.py runserver 8000` <br/>
 
 
 ## front end react setup 
-`cd frontend`
-`npm i`  
-
+`cd frontend` <br/>
+`npm i`  <br/>
 `npm start --port 3000`
