@@ -1,6 +1,6 @@
 # imageResizer
 
-##backend setup
+## backend setup
 
 ### create and enter a python venev
 `cd backend`
